@@ -112,7 +112,7 @@ Feel free to contribute to the project. You can:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](three-LICENSE) file for details.
 
 ## Acknowledgments
 
