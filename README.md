@@ -120,5 +120,6 @@ This project is licensed under the MIT License - see the [LICENSE](three-LICENSE
 - **WindowManager**: A custom script that helps track the shape and position of open windows.
 
 ---
-
+## Author
+Jakir Hussain
 This `README.md` file will guide users on how to run, understand, and contribute to the project. You can customize it further based on additional features you implement.
