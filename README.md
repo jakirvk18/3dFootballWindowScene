@@ -122,4 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](three-LICENSE
 ---
 ## Author
 Jakir Hussain
+---
 This `README.md` file will guide users on how to run, understand, and contribute to the project. You can customize it further based on additional features you implement.
